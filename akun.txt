@@ -1,0 +1,7 @@
+Admin
+email : DinaYuliana@gmail.com
+pass  : admin
+
+Pelanggan 
+email : rifkyth275@gmail.com
+pass  : rifqi
